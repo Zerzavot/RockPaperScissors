@@ -1,8 +1,8 @@
 # RockPaperScissors
 *Rock / paper / scissors game that works with Client-Server logic in Java language.*
 
-ANKARA UNIVERSITY - COMPUTER ENGINEERING DEPARTMENT
-BLM/COM334 - ASSIGNMENT 2
+ANKARA UNIVERSITY - COMPUTER ENGINEERING DEPARTMENT<br>
+BLM/COM334 - OPERATING SYSTEM - ASSIGNMENT 2
 
 ### Description of Homework
 
@@ -13,7 +13,7 @@ The server program waits for any client connection to be established with the ac
 
 ### Working Principle
 
-1.  CLIENT Gets the statement of rock / paper / scissors from the user
+1. CLIENT Gets the statement of rock / paper / scissors from the user
 2. CLIENT Sends the data to SERVER using socket.
 3. SERVER Reads the data from the socket and prints its contents on the screen.
 4. SERVER Generates a Random variable and prints it on the screen.
@@ -24,6 +24,12 @@ The server program waits for any client connection to be established with the ac
 
 ### Requirements
 
-> Ubuntu OS 
+> Ubuntu OS <br>
 > java
+
+### Build & Run
+
+You should use two terminal,one is for server the other one for client.<br><br>
+
+![OS](https://user-images.githubusercontent.com/50207648/81470931-5dce3980-91f6-11ea-9c6e-47627aaf8c77.png)
     
